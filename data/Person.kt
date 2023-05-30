@@ -14,6 +14,3 @@ class Person {
  * 
  * kalimat depan harus huruf besar
  */
-fun main() {
-
-}

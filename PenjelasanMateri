@@ -12,3 +12,8 @@ data yg bisa kita sisipkan di dalam object
 harus mendeklarasikan data apa saja yg dimiliki object tsb dalam deklarasi classnya
 membuat properties sama seperti membuat variable, bisa mutable dan imutable
 untuk mengakses kita butuh kata kunci .
+
+constructor:
+saat membuat object maka seperti memanggil sebuah function
+mirip seperti function yg akan di panggil saat pertama kali object dibuat
+bisa memberi parameter pada constructor
