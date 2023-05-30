@@ -8,6 +8,13 @@ import data.Person
  */
 fun main() {
     // cara membuat object
-    // val iqbal = Person()
-    // println(iqbal)
+    val iqbal = Person()
+    // cara mengakses properties
+    iqbal.firstName = "iqbal"
+
+    val suwandi = Person()
+    suwandi.middleName = "suwandi"
+
+    println(iqbal)
+    println(suwandi)
 }

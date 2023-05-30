@@ -1,0 +1,14 @@
+class:
+menggunakan kata kunci class
+sebaiknya nama file untuk membuat class itu di samain
+kalimat depan harus huruf besar
+
+object:
+membuat object mirip seperti manggil function dengan menggunakan nama class
+tidak butuh kata kunci khusus
+
+properties:
+data yg bisa kita sisipkan di dalam object
+harus mendeklarasikan data apa saja yg dimiliki object tsb dalam deklarasi classnya
+membuat properties sama seperti membuat variable, bisa mutable dan imutable
+untuk mengakses kita butuh kata kunci .

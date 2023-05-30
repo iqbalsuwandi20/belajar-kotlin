@@ -1,4 +1,8 @@
 package data
 
 // cara membuat class
-class Address
+class Address {
+    var street: String = ""
+    var city: String = ""
+    var country: String = "Indonesia"
+}

@@ -1,7 +1,12 @@
 package data
 
 // cara membuat class
-class Person
+class Person {
+    // cara membuat properties
+    var firstName: String = ""
+    var middleName: String = ""
+    var lastName: String? = null
+}
 
 /**
  * menggunakan kata kunci class
