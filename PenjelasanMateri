@@ -18,7 +18,12 @@ saat membuat object maka seperti memanggil sebuah function
 mirip seperti function yg akan di panggil saat pertama kali object dibuat
 bisa memberi parameter pada constructor
 
-initializer block"
+initializer block:
 blok kode yg akan dieksekusi ketika constructor di panggil
 kita bisa memasukan kode program di dalam initializer block
 menggunakan kata kunci init 
+
+secondary constructor:
+constructor lebih dari satu
+constructor pertama disebut primary constructor
+wajib memanggil primarynya
